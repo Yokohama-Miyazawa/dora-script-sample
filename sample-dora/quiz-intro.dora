@@ -1,0 +1,7 @@
+/quiz.greeting
+みなさん、{{{quiz.greeting}}}。
+/0.5
+それでは、{{{about}}}をはじめたいと思います。
+/2
+今回は{{{quiz.title}}}です。
+/2
