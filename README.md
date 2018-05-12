@@ -1,7 +1,7 @@
 # Dora Script Sample
 
-ドラエンジンで動作するサンプルスクリプトです。
-動かすにはドラエンジンのロボット一式が必要です。
+DoraEngineで動作するサンプルスクリプトです。
+動かすにはDoraEngineのロボット一式が必要です。
 
 ## 使い方
 
@@ -44,4 +44,4 @@
 
 ## License
 
-  MIT
+[MIT](LICENSE)
