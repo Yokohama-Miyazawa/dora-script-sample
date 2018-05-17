@@ -7,7 +7,7 @@
 /goto/:ループ
 
 :例外
-/log/{{{payload}}}
+/log/{{payload}}
 /switch/canceled/:キャンセル
 /switch/timeout/:タイムアウト
 /end

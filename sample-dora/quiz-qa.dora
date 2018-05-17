@@ -33,9 +33,9 @@
 
 :合流
 /join
-/log/topic:{{{topic}}}
-/log/topicPriority:{{{topicPriority}}}
-/log/payload:{{{payload}}}
+/log/topic:{{topic}}
+/log/topicPriority:{{topicPriority}}
+/log/payload:{{payload}}
 /text-to-speech
 /end
 
