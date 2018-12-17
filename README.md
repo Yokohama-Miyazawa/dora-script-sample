@@ -5,7 +5,13 @@ DoraEngineで動作するサンプルスクリプトです。
 
 ## 使い方
 
-添付の [slide-to-dora.gs](./slide-to-dora.gs) を GAS で読み込み、「アドオンとしてテスト」を選択します。
+次のURLをクリックします。Googleにログインしていない人はログインします。
+
+- [https://script.google.com/create](https://script.google.com/create)
+
+コードに　[slide-to-dora.gs](./slide-to-dora.gs) をコピペします。プロジェクトの名前には適当な名前を入力します。
+
+保村してから「アドオンとしてテスト」を選択します。
 
 ![./images/001.jpeg](./images/001.jpeg)
 
