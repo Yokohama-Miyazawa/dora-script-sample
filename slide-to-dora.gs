@@ -65,9 +65,9 @@ function saveScenarioSlideImages(presentationName, scenarioOnly) {
   var folder = DriveApp.createFolder(presentationName);
   presentation.getSlides().forEach(function(slide, i) {
     var pageName = Utilities.formatString('%03d', i+1)+'.jpeg';
-    scenario.push('/quiz.slide/images/'+folder+'/'+pageName);
-    //scenario.push(':quiz.slide/{{{slideName}}}'+pageName);
-    //scenario.push(':quiz.slide/'+presentationName+'/'+pageName);
+    scenario.push('/slide/images/'+folder+'/'+pageName);
+    //scenario.push(':slide/{{{slideName}}}'+pageName);
+    //scenario.push(':slide/'+presentationName+'/'+pageName);
     //scenario.push(':1s');
     //scenario.push('\n')
     var txt = '';
